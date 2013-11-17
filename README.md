@@ -1,0 +1,4 @@
+patterns
+========
+
+GOF Patterns examples
